@@ -23,15 +23,6 @@
 
 ---
 
-## 🌐 Projects Highlight
-
-### 💡 Pistil – Digital Health Platform for Women
-- Built secure backend & UI components in **Laravel** and **Blade**
-- Developed mobile features in **React Native**, integrated with **Express.js APIs**
-- Created modules for **appointment booking**, **health programs**, and **e-commerce**
-
----
-
 ## 📫 Contact Me
 
 - 📍 Bangkok, Thailand  
