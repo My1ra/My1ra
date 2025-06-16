@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Phyu Thant Kyaw
 
-<!--
-**My1ra/My1ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 A passionate **Full Stack Developer** with a solid background in web and mobile development. Currently based in Bangkok, Thailand 🇹🇭.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+- 💻 Junior Software Engineer at **Singtecs** (Singapore-based, remote)
+- 🔧 Building full-stack features for [Pistil](https://pistil.io), a digital health platform for women
+- 📱 Developing mobile app modules using **React Native** and **Express.js**
+- 🎓 BTEC Level 5 Diploma in Computing + Bachelor's Degree in English
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** PHP, JavaScript, C# .NET  
+**Web:** Laravel, Blade, Tailwind CSS, Next.js, Express.js  
+**Mobile:** React Native  
+**Database:** MySQL  
+**Tools:** Git, Bitbucket, Jira, Slack
+
+---
+
+## 🌐 Projects Highlight
+
+### 💡 Pistil – Digital Health Platform for Women
+- Built secure backend & UI components in **Laravel** and **Blade**
+- Developed mobile features in **React Native**, integrated with **Express.js APIs**
+- Created modules for **appointment booking**, **health programs**, and **e-commerce**
+
+---
+
+## 📫 Contact Me
+
+- 📍 Bangkok, Thailand  
+- ✉️ Email: phyumyra@gmail.com  
+- 💼 LinkedIn: [phyu-thant-kyaw](https://www.linkedin.com/in/phyu-thant-kyaw-04254828b/)
+
+---
+
+> “Code is not just code; it's a craft I enjoy and grow with every day.” — Me
+
