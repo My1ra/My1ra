@@ -2,6 +2,7 @@
 
 Full Stack Developer based in Bangkok, Thailand 🇹🇭  
 Currently learning **Angular** and building a **Movie Browser App** 🎬
+[MovieBrowser – Live Site](https://movie-browser-fkqlah37o-phyuthant-kyaws-projects.vercel.app/)
 
 ### 💼 Work Experience
 **Junior Software Engineer @ Singtecs (Remote, SG)**  
